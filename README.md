@@ -11,7 +11,7 @@ Ngapi is a semantic chunker based on fastText word embeddings for the Myanmar la
 ## Citation
 
 ```
-@misc{ye_kyaw_thu_2024,
+@misc{ngapi_2024,
   author       = {Ye Kyaw Thu},
   title        = {NgaPi Semantic Chunker for Burmese, Version 1.0},
   year         = {2024},
