@@ -119,6 +119,13 @@ ma_thuaung_chunk1.txt:
 
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp2/tst2.distances-eg1.png" alt="tst2.distances-eg1.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
+
 ### Command no.2 
 
 ```bash
@@ -150,6 +157,13 @@ ma_thaung_chunk2.txt:
 
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp2/tst2.distances-eg2.png" alt="tst2.distances-eg2.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.2 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
+
 ### Command no.3
 
 ```bash
@@ -170,6 +184,13 @@ time python ./ngapi.py --model ./model/myfasttext_v1.bin --input ./ma_thaung.txt
 
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp2/tst2.distances-eg3.png" alt="tst2.distances-eg3.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.3 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
+
 ### Command no.4 
 
 ```
@@ -185,6 +206,13 @@ time python ./ngapi.py --model ./model/myfasttext_v1.bin --input ./ma_thaung.txt
 မှာတင်ပန်းသည်စာ_မူကိုရပ်ခဲ့တယ်_။
 
 ```
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp2/tst2.distances-eg4.png" alt="tst2.distances-eg4.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.4 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
 
 ### Command no.5
  
@@ -213,3 +241,10 @@ ma_thaung_chunk5.txt:
 သည်|စာ|မူ|ကို_ရပ်|ခဲ့|တယ်_။
 
 ```
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp2/tst2.distances-eg5.png" alt="tst2.distances-eg5.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.5 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
