@@ -156,6 +156,13 @@ ma_thein.chunk2.txt:
 ။ဆယ်စုနှစ်နှစ်ခု_လောက်ရှိတော့မသိန်းဆိုင်_နားမှာမသောင်းပန်းဆိုင်_ပေါ်လာ။
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg2.png" alt="tst1.distances-eg2.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
+
 ### Command no.3 
 
 ```bash
@@ -180,6 +187,13 @@ ma_thein.chunk3.txt:
 
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg3.png" alt="tst1.distances-eg3.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
+
 ### Command no.4 
 
 ```bash
@@ -196,6 +210,13 @@ ma_thein.chunk4.txt:
 ရွှေတိဂုံဘုရား|အနောက်ဘက်စောင်းတန်း_မှာမသိန်းဆိုတဲ့_ပန်းသည်တယောက်ရှိ_တယ်။ပန်းသည်မ|သိန်းပုံကိုသိပ္ပံမောင်_ဝရေးဖွဲခဲ့ပုံ_က…။_“မသိန်းသည်ပန်း_သည်တို့အနက်အ_တော်ပင်ယဉ်စစ_ရှိ၏။အပြော_လည်းကောင်း၊သဘော_လည်းကောင်း၊အပြု_အပြင်ကလည်းကောင်း_၊သူ့မှာအကောင်း|ချည်းစုနေလေတော့|သည်။သို့ဖြစ်သော|ကြောင့်တက္ကသိုလ်ကျောင်း|သားတွေသူ့ဆိုင်မှာ_ချည်းပန်းဝယ်ကြလေ_သည်။”_အဲ့ဒီခေတ်ကတက္က_သိုလ်ကျောင်းသားတွေဟာ|စနေ၊တနင်္ဂ_နွေနေ့တွေမှာအုပ်_စုလိုက်ဘုရားတက်|ပြီးမသိန်းဆိုင်က_ပန်းတွေဝယ်၊မ_သိန်းဆိုင်ရှေ့ကခုံ_မှာထိုင်ပြီးစကား_တွေဖောင်ဖွဲ့ကြပါ_သတဲ့။_တချို့ရက်တွေဆို_ရှေ့ကအဖွဲ့ဖောင်_ဖွဲ့နေတုန်းနောက်တ_ဖွဲ့ရောက်လာလို့မ|ထချင်ထချင်နဲ့
 နေရာဖယ်ပေးရ|ဆိုပဲ။ဒီထဲ_မောင်သိန်းခိုင်ဆိုတဲ့_ကျောင်းသားကတော့တ_ကိုယ်တော်။_သူကမသိန်းဆိုင်_သိမ်းချိန်အထိနေ_ပြီးဆိုင်သိမ်းပြီးရင်_အတူပြန်တဲ့ထိ_မသိန်းနဲ့ရင်းနှီး_တယ်။ဒီလိုနဲ့|ကျောင်းသားဟောင်းတွေက_ကျောင်းပြီးသွားလို့နေ|ရပ်အသီသီးဆီ_ဘဝခရီးချီ|တက်ကြ။|နောက်ကျောင်းသားအသစ်|တွေရောက်လာပြီးမ|သိန်းဆိုင်မှာပန်းဝယ်|ကြ၊စကားတွေ_ဖောင်ဖွဲ့ကြနဲ့။_ဆယ်စုနှစ်နှစ်ခု_လောက်ရှိတော့မသိန်း_ဆိုင်နားမှာမသောင်း_ပန်းဆိုင်ပေါ်လာ။
 ```
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg4.png" alt="tst1.distances-eg4.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
 
 ### Command no. 5
 
@@ -220,3 +241,9 @@ Service|of|Ukraine|-|SBU_)_က_အ_ရာ|ရှိ|ဟောင်း|အို
 ယူ|က_ရိန်း_လျှို့_ဝှက်|ထောက်_လှမ်း_ရေး_ဌာ_န_က_ဆုံး_ဖြတ်|တာ_ပါ_"_လို့_သူ_က_ပြော_ပါ_တယ်_။_ဒီ_အ_ဖြစ်_နဲ့_ပတ်_သက်_ပြီး_ယူ|က|ရိန်း|အ_စိုး_ရ_အာ_ဏာ_ပိုင်_တွေ_က_တ_ရား_ဝင်_မှတ်_ချက်_ချ_တာ_မျိုး_မ_ရှိ_ပါ_ဘူး_။
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg5.png" alt="tst1.distances-eg5.png" width="600"/>  
+</p>  
+<div align="center">
+  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+</div> 
