@@ -9,6 +9,9 @@ Ngapi is a semantic chunker based on fastText word embeddings for the Myanmar la
 </div> 
 
 ## Citation
+  
+If you have used the Ngapi semantic chunker, please cite it as follows:  
+(Ngapi Semantic Chunker ကို သုံးဖြစ်ကြရင် အောက်ပါ citation လုပ်ပေးပါ။ ကျေးဇူးပါ။)    
 
 ```
 @misc{ngapi_2024,
