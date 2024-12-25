@@ -8,6 +8,19 @@ Ngapi is a semantic chunker based on fastText word embeddings for the Myanmar la
   Fig. A 19th century Burmese watercolor depicting a ngapi hawker (Source: Wikipedia)   
 </div> 
 
+## Citation
+
+```
+@misc{ye_kyaw_thu_2024,
+  author       = {Ye Kyaw Thu},
+  title        = {NgaPi Semantic Chunker for Burmese, Version 1.0},
+  year         = {2024},
+  url          = {https://github.com/ye-kyaw-thu/NgaPi},
+  note         = {Accessed: 2024-12-25},
+  institution  = {LU Lab., Myanmar}
+}
+```
+
 ## Reference
 
 [1]. A 19th century Burmese watercolor depicting a ngapi hawker, https://en.wikipedia.org/wiki/Ngapi  
