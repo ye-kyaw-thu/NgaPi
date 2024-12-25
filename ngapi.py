@@ -8,8 +8,9 @@ known for its strong and distinctive smell.
 Written by Ye Kyaw Thu, LU Lab., Myanmar
 Last updated: 25 Dec 2024
 Reference:
+https://fasttext.cc/  
 The 5 Levels Of Text Splitting For Retrieval, 
-https://www.youtube.com/watch?v=8OJC21T2SL4&t=2112s  
+https://www.youtube.com/watch?v=8OJC21T2SL4&t=2112s   
 
 How to Run:
 
