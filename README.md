@@ -43,6 +43,7 @@ Ngapi is a semantic chunker based on fastText word embeddings for the Myanmar la
   journal={arXiv preprint arXiv:1612.03651},
   year={2016}
 }
-```
-
+```  
 (* These authors contributed equally.)  
+
+[6]. RE based syllable breaking tool for Burmese: https://github.com/ye-kyaw-thu/sylbreak  
