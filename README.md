@@ -17,6 +17,7 @@ If you have used the Ngapi semantic chunker, please cite it as follows:
 @misc{ngapi_2024,
   author       = {Ye Kyaw Thu},
   title        = {NgaPi Semantic Chunker for Burmese, Version 1.0},
+  month        = {12},
   year         = {2024},
   url          = {https://github.com/ye-kyaw-thu/NgaPi},
   note         = {Accessed: 2024-12-25},
