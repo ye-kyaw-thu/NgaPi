@@ -160,7 +160,7 @@ ma_thein.chunk2.txt:
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg2.png" alt="tst1.distances-eg2.png" width="600"/>  
 </p>  
 <div align="center">
-  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+  Fig.2 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
 </div> 
 
 ### Command no.3 
@@ -191,7 +191,7 @@ ma_thein.chunk3.txt:
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg3.png" alt="tst1.distances-eg3.png" width="600"/>  
 </p>  
 <div align="center">
-  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+  Fig.3 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
 </div> 
 
 ### Command no.4 
@@ -215,7 +215,7 @@ ma_thein.chunk4.txt:
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg4.png" alt="tst1.distances-eg4.png" width="600"/>  
 </p>  
 <div align="center">
-  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+  Fig.4 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
 </div> 
 
 ### Command no. 5
@@ -245,5 +245,5 @@ Service|of|Ukraine|-|SBU_)_က_အ_ရာ|ရှိ|ဟောင်း|အို
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg5.png" alt="tst1.distances-eg5.png" width="600"/>  
 </p>  
 <div align="center">
-  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
+  Fig.5 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
 </div> 
