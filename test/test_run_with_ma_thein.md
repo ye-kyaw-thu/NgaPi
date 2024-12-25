@@ -129,10 +129,10 @@ ma_thein.chunk1.txt:
 ```
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg1.png" alt="tst1.distances-eg1.png" width="800"/>  
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg1.png" alt="tst1.distances-eg1.png" width="600"/>  
 </p>  
 <div align="center">
-  Fig.1   
+  Fig.1 Semantic Chunking Based on Cosine Distance of FastText Embeddings  
 </div> 
 
 ### Command no.2
