@@ -128,6 +128,13 @@ ma_thein.chunk1.txt:
 မှာပန်းဝယ်ကြ၊စ_ကားတွေဖောင်ဖွဲ့ကြနဲ့_။ဆယ်စုနှစ်နှစ်ခု_လောက်ရှိတော့မသိန်းဆိုင်_နားမှာမသောင်းပန်းဆိုင်_ပေါ်လာ။
 ```
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/test/exp1/tst1.distances-eg1.png" alt="tst1.distances-eg1.png" width="800"/>  
+</p>  
+<div align="center">
+  Fig.1   
+</div> 
+
 ### Command no.2
 
 ```bash
