@@ -8,6 +8,9 @@
   Fig. A 19th century Burmese watercolor depicting a ngapi hawker (Source: Wikipedia)   
 </div> 
 
+## Two Semantic Chunking Experiments
+
+
 ## Citation
   
 If you have used the Ngapi semantic chunker, please cite it as follows:  
