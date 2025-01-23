@@ -8,6 +8,20 @@
   Fig. A 19th century Burmese watercolor depicting a ngapi hawker (Source: Wikipedia)   
 </div> 
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/ngapi_a_myo2.jpeg" alt="various ngapis figure" width="450"/>  
+</p>  
+<div align="center">
+  Fig. Various ngapis at the Htet Htet Ngapi Brokers' Sale Center, Pyinmana, Myanmar (Source: LU Lab).   
+</div> 
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/ngapi_thout.jpeg" alt="NgaPi salad figure" width="450"/>  
+</p>  
+<div align="center">
+  Fig. Ngapi Salad (ငပိသုပ်) (Source: LU Lab). 
+</div> 
+
 ## Two Semantic Chunking Experiments
 
 I conducted two small experiments, and the detailed commands and results are as follows:  
