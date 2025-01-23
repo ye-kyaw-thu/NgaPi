@@ -7,6 +7,7 @@
 <div align="center">
   Fig. A 19th century Burmese watercolor depicting a ngapi hawker (Source: Wikipedia)   
 </div> 
+<br/><br/>
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/ngapi_a_myo2.jpeg" alt="various ngapis figure" width="450"/>  
@@ -14,6 +15,7 @@
 <div align="center">
   Fig. Various ngapis at the Htet Htet Ngapi Brokers' Sale Center, Pyinmana, Myanmar (Source: LU Lab).   
 </div> 
+<br/><br/>
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/ngapi_thout.jpeg" alt="NgaPi salad figure" width="450"/>  
@@ -21,6 +23,7 @@
 <div align="center">
   Fig. Ngapi Salad (ငပိသုပ်) (Source: LU Lab). 
 </div> 
+<br/><br/>
 
 ## Two Semantic Chunking Experiments
 
