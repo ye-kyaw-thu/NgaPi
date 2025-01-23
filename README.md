@@ -5,7 +5,7 @@
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/Bodleian_Ms._Burm._a._5_fol_126.jpg" alt="NgaPi Thae figure" width="450"/>  
 </p>  
 <div align="center">
-  Fig. A 19th century Burmese watercolor depicting a ngapi hawker (Source: Wikipedia)   
+  Fig.1 A 19th century Burmese watercolor depicting a ngapi hawker (Source: Wikipedia)   
 </div> 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/ngapi_a_myo2.jpeg" alt="various ngapis figure" width="450"/>  
 </p>  
 <div align="center">
-  Fig. Various ngapis at the Htet Htet Ngapi Brokers' Sale Center, Pyinmana, Myanmar (Source: LU Lab).   
+  Fig.2 Various ngapis at the Htet Htet Ngapi Brokers' Sale Center, Pyinmana, Myanmar (Source: LU Lab).   
 </div> 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 <img src="https://github.com/ye-kyaw-thu/NgaPi/blob/main/pic/ngapi_thout.jpeg" alt="NgaPi salad figure" width="450"/>  
 </p>  
 <div align="center">
-  Fig. Ngapi Salad (ငပိသုပ်) (Source: LU Lab). 
+  Fig.3 Ngapi Salad (ငပိသုပ်) (Source: LU Lab). 
 </div> 
 <br/><br/>
 
